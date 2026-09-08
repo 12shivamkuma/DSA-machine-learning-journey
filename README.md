@@ -5,7 +5,7 @@ Learn/implement one ML concept
 Note: I've actually been learning DSA and ML for the past few months — this repo documents that ongoing journey starting now, not day one of learning. Earlier progress isn't reflected in the daily log below, but the topics checklist reflects what I've already covered.
 
 
-# Day 1— sep-9-2026
+ Day 1— sep-9-2026
 DSA-today i have learnt about creating heap ,deleting root from the heap.
       * what is heapify-the process of placing the element at it's required position.
       * heap sort-we sort the array using heap deletion on all the element .
