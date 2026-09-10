@@ -15,3 +15,14 @@ MACHINE LEARNING :-today i learnt about mathematical transformer which is sub-pa
       * there are sub parts of mathematical transformation (i)function transformer (ii)power transformer (iii)quantile traformer
       * and there are sub-part of these three which i will learn in future!
 
+## Day 2— sep-10-2026
+DSA-today i have learnt about priority queue and have done some question on the topic.
+      * height of the heap(question on gfg).
+      * minimum stone sum(quetion on gfg).
+      * last stone weight (on leetcode).
+
+MACHINE LEARNING :-today i learnt about encoding numerical variable (binning  ,binarization) .
+      * sub part of the binning (i)equal width binning (ii)equal frequency binning (iii) k-means binning .
+      * then the binarization 
+      *some other topics like_ handling mixed values in feature ,encoding numerical features as categorical ,handling date and time feature which will be used in         many specific project.
+
