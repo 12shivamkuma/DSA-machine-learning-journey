@@ -26,3 +26,14 @@ MACHINE LEARNING :-today i learnt about encoding numerical variable (binning  ,b
       * then the binarization 
       *some other topics like_ handling mixed values in feature ,encoding numerical features as categorical ,handling date and time feature which will be used in         many specific project.
 
+## Day 3— sep-11-2026
+DSA-today i have learnt about priority queue and have done some question on the topic.
+      * kth smallest element in heap(question on gfg).
+      * kth greatest element in  heap(quetion on gfg).
+      
+
+MACHINE LEARNING :-today i learnt about encoding numerical variable (binning  ,binarization) .
+      * handling date and time based column.
+      * handling missing values data.(remove row,impute).
+      *impute(univarate(simple imputer),multivariate).
+
