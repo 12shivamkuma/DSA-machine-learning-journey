@@ -37,3 +37,16 @@ MACHINE LEARNING :-today i learnt about encoding numerical variable (binning  ,b
       * handling missing values data.(remove row,impute).
       *impute(univarate(simple imputer),multivariate).
 
+## Day 4— sep-14-2026
+DSA-today i have learnt about priority queue and have done some question on the topic.
+      *  Kth element in Matrix (leetcode).
+      * Find median in a stream.
+      
+
+MACHINE LEARNING :-today i leart about imputer what are they and how they work.
+      * random imputaion
+      * missing ingicator
+      *automatically select value for imputation
+      *KNN imputer
+      * iterative imputer
+
