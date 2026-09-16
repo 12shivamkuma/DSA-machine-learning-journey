@@ -49,4 +49,12 @@ MACHINE LEARNING :-today i leart about imputer what are they and how they work.
       *automatically select value for imputation
       *KNN imputer
       * iterative imputer
+## Day 5— sep-15-2026
+DSA-today i have learnt about priority queue and have done some question on the topic.
+      * merge k sorter array
+      * merge k sorte linked list.  
+MACHINE LEARNING :-today i leart about curse of dimensionality.
+      * feature selection  because of curse of dimensionality.
+      * feature extraction to reduce dimension of the feature.
+      
 
