@@ -56,5 +56,12 @@ DSA-today i have learnt about priority queue and have done some question on the 
 MACHINE LEARNING :-today i leart about curse of dimensionality.
       * feature selection  because of curse of dimensionality.
       * feature extraction to reduce dimension of the feature.
-      
+
+## Day 6— sep-16-2026
+DSA-today i have learnt about priority queue and have done some question on the topic.
+      * attempted one question.  
+MACHINE LEARNING :-today i leart about curse of principal componant analysis.
+      * covariance &covariance matrix.
+      *eigen value & eigen vector.
+      *linear transformation of matrix.
 
