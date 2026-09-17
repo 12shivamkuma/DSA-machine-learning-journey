@@ -64,4 +64,10 @@ MACHINE LEARNING :-today i leart about curse of principal componant analysis.
       * covariance &covariance matrix.
       *eigen value & eigen vector.
       *linear transformation of matrix.
-
+      
+## Day 7— sep-17-2026
+DSA-today i have learnt about priority queue and have done some question on the topic.
+      * attempted one question.  
+MACHINE LEARNING :-today i leart about first machine learning algorithm.
+      * simple linear regression 
+      * code+mathematics
