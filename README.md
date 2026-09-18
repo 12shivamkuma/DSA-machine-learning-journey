@@ -71,3 +71,11 @@ DSA-today i have learnt about priority queue and have done some question on the 
 MACHINE LEARNING :-today i leart about first machine learning algorithm.
       * simple linear regression 
       * code+mathematics
+
+## Day 8— sep-18-2026
+DSA-today i have learnt about graph and bfs ,dfs.
+      * solve question on BFS on graph.
+      *solve question named DFS on graph
+MACHINE LEARNING :-today i leart about first machine learning algorithm.
+      * simple linear regression 
+      * learnt about formula of slope(m)and intercept(b).
