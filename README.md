@@ -79,3 +79,15 @@ DSA-today i have learnt about graph and bfs ,dfs.
 MACHINE LEARNING :-today i leart about first machine learning algorithm.
       * simple linear regression 
       * learnt about formula of slope(m)and intercept(b).
+
+## Day 9— sep-20-2026
+DSA-today i have learnt about graph and bfs ,dfs.
+      * attempted 
+MACHINE LEARNING :-today i leart about first machine learning algorithm.
+      * multilinear regression
+
+## Day 8— sep-18-2026
+DSA-today i have learnt about graph and bfs ,dfs.
+      * attempted 
+MACHINE LEARNING :-today i leart about first machine learning algorithm.
+      * multilinear regression .mathematics
