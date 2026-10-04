@@ -91,3 +91,13 @@ DSA-today i have learnt about graph and bfs ,dfs.
       * attempted 
 MACHINE LEARNING :-today i leart about first machine learning algorithm.
       * multilinear regression .mathematics
+
+
+## was creating my first project from last few weeks that's why there is no update .now i  will update again what  i am learning!!
+
+## Day 9— aug-5-2026
+DSA-changing my DSA approach from random to pattern wise.
+      * 
+MACHINE LEARNING :-* leant about ridge regression and .
+     *over fitting &underfitting
+
