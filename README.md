@@ -101,3 +101,8 @@ DSA-changing my DSA approach from random to pattern wise.
 MACHINE LEARNING :-* leant about ridge regression and .
      *over fitting &underfitting
 
+## Day 10— aug-6-2026
+DSA-changing my DSA approach from random to pattern wise.
+      * 
+MACHINE LEARNING :-* learnt ridge regresion and lasso regression .
+      * mathematical formtulation.
