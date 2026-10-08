@@ -107,7 +107,12 @@ DSA-changing my DSA approach from random to pattern wise.
 MACHINE LEARNING :-* learnt ridge regresion and lasso regression .
       * mathematical formtulation.
 
-## Day 10— aug-7-2026
+## Day 11— aug-7-2026
 DSA-changing my DSA approach from random to pattern wise.
       * 
 MACHINE LEARNING :-* leart logistic regression ,how it works and mathematical formulation.
+
+## Day 12— aug-7-2026
+DSA-changing my DSA approach from random to pattern wise.
+      * attempt a string question.
+MACHINE LEARNING :-* leart logistic regression with sigmoid function and maximun likelyhood .
