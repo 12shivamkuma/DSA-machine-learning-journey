@@ -112,7 +112,15 @@ DSA-changing my DSA approach from random to pattern wise.
       * 
 MACHINE LEARNING :-* leart logistic regression ,how it works and mathematical formulation.
 
-## Day 12— aug-7-2026
+
+## Day 12— aug-8-2026
 DSA-changing my DSA approach from random to pattern wise.
-      * attempt a string question.
-MACHINE LEARNING :-* leart logistic regression with sigmoid function and maximun likelyhood .
+      * 
+MACHINE LEARNING :-* leart logistic regression ,using gradient descent maths.
+
+## Day 13— aug-10-2026
+DSA-changing my DSA approach from random to pattern wise.
+      * 
+MACHINE LEARNING :-* kaggel competion.
+      * Titanic competion.
+
