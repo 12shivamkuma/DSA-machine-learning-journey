@@ -124,3 +124,8 @@ DSA-changing my DSA approach from random to pattern wise.
 MACHINE LEARNING :-* kaggel competion.
       * Titanic competion.
 
+## Day 14— aug-14-2026
+DSA-.
+      * attempe one question.
+MACHINE LEARNING :-* learnt about svm and KNN in theory and code.
+
