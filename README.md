@@ -129,3 +129,8 @@ DSA-.
       * attempe one question.
 MACHINE LEARNING :-* learnt about svm and KNN in theory and code.
 
+## Day 15— oct-19-2026
+DSA-. 
+      * done the potd .
+MACHINE LEARNING :-* learnt about random forest and bagging.
+
